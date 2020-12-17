@@ -1,0 +1,9 @@
+D:\20610\20487D-Developing-Microsoft-Azure-and-Web-Services-master\AllFiles\Mod02\DemoFiles\SQLite\Starter\Sqlite.Dal\bin\Debug\netstandard2.0\Sqlite.Dal.deps.json
+D:\20610\20487D-Developing-Microsoft-Azure-and-Web-Services-master\AllFiles\Mod02\DemoFiles\SQLite\Starter\Sqlite.Dal\bin\Debug\netstandard2.0\Sqlite.Dal.dll
+D:\20610\20487D-Developing-Microsoft-Azure-and-Web-Services-master\AllFiles\Mod02\DemoFiles\SQLite\Starter\Sqlite.Dal\bin\Debug\netstandard2.0\Sqlite.Dal.pdb
+D:\20610\20487D-Developing-Microsoft-Azure-and-Web-Services-master\AllFiles\Mod02\DemoFiles\SQLite\Starter\Sqlite.Dal\obj\Debug\netstandard2.0\Sqlite.Dal.csprojAssemblyReference.cache
+D:\20610\20487D-Developing-Microsoft-Azure-and-Web-Services-master\AllFiles\Mod02\DemoFiles\SQLite\Starter\Sqlite.Dal\obj\Debug\netstandard2.0\Sqlite.Dal.AssemblyInfoInputs.cache
+D:\20610\20487D-Developing-Microsoft-Azure-and-Web-Services-master\AllFiles\Mod02\DemoFiles\SQLite\Starter\Sqlite.Dal\obj\Debug\netstandard2.0\Sqlite.Dal.AssemblyInfo.cs
+D:\20610\20487D-Developing-Microsoft-Azure-and-Web-Services-master\AllFiles\Mod02\DemoFiles\SQLite\Starter\Sqlite.Dal\obj\Debug\netstandard2.0\Sqlite.Dal.csproj.CoreCompileInputs.cache
+D:\20610\20487D-Developing-Microsoft-Azure-and-Web-Services-master\AllFiles\Mod02\DemoFiles\SQLite\Starter\Sqlite.Dal\obj\Debug\netstandard2.0\Sqlite.Dal.dll
+D:\20610\20487D-Developing-Microsoft-Azure-and-Web-Services-master\AllFiles\Mod02\DemoFiles\SQLite\Starter\Sqlite.Dal\obj\Debug\netstandard2.0\Sqlite.Dal.pdb
